@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+  <html lang="pt">
+  <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <title>Tindalosianos</title>
+  <head>
+  </head>
+  <body>
+  <header class="top">
+  <h1 class="titles">Os Cães de Tindalos</h1>
+  </header>
+  
+  <div class="main">
+<div class="r">
+<h3 class="sub">Como Começa</h3>
+  <p class="Resumo">No começo do tempo e no fim dele, habita um ser repugnante e extremamente violento, 
+ele vive la esperando por um desavisado que se atreva à desafiar as regras do tempo, é muito difícil mas esses idiotas realmente conseguem 
+  eles desbravam pelo fluxo do tempo como se fosse ficar sem consequências.</p>
+  </div>
+  <div class="ch">
+  <h3 class="sub">Rastreio</h3
+  <p class="cheiro">Cada um desses viajantes idiotas, depois de entrar em contato com o fluxo temporal, ganham um odor que irrita os tindalosianos, fazendo assim com que sejam facilmente rastreados
+logo os Mastins Ferozes do Tempo, vão atrás dos viajantes.</p>
+  </div>
+  <div class="sb">
+  <h3 class="sub">Fim</h3>
+  <p class="conseq">Bom... no Fim todos os viajantes são alcansados e os Mastins os sugam com sua língua que mais parece um canudo e dilaceram os viajantes como bestas furiozas
+  </div>
+  </div>
+  </body>
+  </html>
